@@ -1,2 +1,2 @@
 # TodoistPostman
-Todoist - Second challenge using Postman and Newman. Wizeline cert.
+Todoist - Second challenge using Postman and Newman.
